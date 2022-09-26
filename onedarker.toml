@@ -15,6 +15,7 @@ dark_gray = '#3e4451'
 gray = '#545862'
 context = '#6b737f'
 light_gray = '#c8ccd4'
+comment_color = '#d4922f'
 
 red = '#d05c65'
 blue = '#519fdf'
@@ -122,7 +123,7 @@ TabLineSel = 'fg line'
 TabLineFill = 'line line'
 
 [Code]
-Comment = 'gray - i'
+Comment = 'comment_color'
 Variable = 'fg'
 String = 'green'
 Character = 'green'
